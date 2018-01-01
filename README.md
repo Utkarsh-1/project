@@ -1,21 +1,18 @@
 # About Project
 
+Heya, Welcome to my repository for projects which I have completed and which I am working on. Side Projects are also added here which are not under affiliation with my institute - Indian Institute of Technology, Dhanbad. Projects are credited every semester for 3 years as a part of my degree requirements.
 
-This is the repository for second year project under Dr. S. Mukhopadhyay as the mentor for my group including Utkarsh &amp; Abhishek. We are currently working on image processing with .PGM files in ASCII format.
+## List of Projects
 
-### Updates
-Made a simple ppm image program
-Made mirror image of the given ".PGM" input image.
+#### Current Projects 
 
-### Log
+1. **Image segmentation and graph cuts**
 
-1. 3 Aug - Got divided into sub groups and gave us, tasked to get familiar with image processing.
+#### Past Projects
 
-2. 10 Aug - sir  gave us a introduction of image processing and asked us to study about different type of images such binary image,rgb pattern image ,grey scale image.
+1. **Detection of rotation of convex object using 8 directional Chain Code**
+  
+  *Under mentorship of **Dr. Sushanta Mukhopadhyay**, Associate Professor, IIT(ISM) Dhanbad*
 
-3. 16 Aug- Venue: CSE Library, Discussed possible topics to choose from and also got assiged with reading task of various image formats.
-
-4. 24 Aug - Given a task to take a input of grey scale image in pgm file in ASCII format and manipulate it and collect manipulated output in pgm file in ascii  format.
-
-5. 30 Aug- Assigned manipulation of color images with file formats namely: .tif, .ppm.
-
+**Abstract**: Developed an algorithm using directional Freeman Chain Code of Eight Directions. Implementation in C (C11) programming language used two input files (from same directory) and outputs to console whether the objects are rotations of other.
+Test files, implemented code, report, presentation of the project is avilable at: [`https://github.com/madhur4127/project/tree/master/ChainCode`](https://github.com/madhur4127/project/tree/master/ChainCode)
